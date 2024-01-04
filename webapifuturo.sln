@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webapifuturo", "webapifuturo\webapifuturo.csproj", "{58C639DC-B9B4-4C20-AA20-8404AC0E032D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58C639DC-B9B4-4C20-AA20-8404AC0E032D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C639DC-B9B4-4C20-AA20-8404AC0E032D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C639DC-B9B4-4C20-AA20-8404AC0E032D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C639DC-B9B4-4C20-AA20-8404AC0E032D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1F52D56-1351-44D7-AA1B-8D035E77772D}
+	EndGlobalSection
+EndGlobal
